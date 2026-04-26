@@ -1,1 +1,1 @@
-# Detecter-des-faux-billets-avec-Python
+# Détecter des faux billets avec Python
