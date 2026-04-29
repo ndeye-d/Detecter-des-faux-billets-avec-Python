@@ -4,8 +4,8 @@ L'ONCFM (Organisation Nationale de lutte Contre le Faux-Monnayage) est une organ
 Le but de ce projet est de tester plusieurs algorithme de Machine Learning et de choisir le meilleur qui detecte les faux billets
 ## Outils utilisés
 - Python
-- **Pandas**
-- **Matplotlib** et **Seaborn**
-- **statsmodels** et **sklearn**
-- **joblib**
+  - **Pandas**
+  - **Matplotlib** et **Seaborn**
+  - **statsmodels** et **sklearn**
+  - **joblib**
 
